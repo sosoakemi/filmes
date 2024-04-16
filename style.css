@@ -22,7 +22,27 @@
     padding: 28px;
 
  }
+ #elenco {
+  background-color: palevioletred;
+ }
+
+ #pr1 {
+  background-color: #bbb5b5;
+ }
   
+ #pr2 {
+  background-color: rgb(218, 144, 193);
+ }
+
+ #pr3 {
+  background-color: rgb(182, 177, 179);
+ }
+
+ #onde {
+  color:palevioletred ;
+ }
+
+ 
  table{
     width: 100%;
   }
